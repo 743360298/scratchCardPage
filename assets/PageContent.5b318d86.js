@@ -1,0 +1,1 @@
+import{o as e,a as t,Z as n}from"./vendor.24e2e329.js";const o={name:"PageContent"},a={class:"content-block"};o.render=function(o,s,r,c,d,l){return e(),t("div",a,[n(o.$slots,"default")])};export default o;
